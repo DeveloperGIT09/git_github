@@ -1,5 +1,4 @@
 # **Git - 0 to Pro Reference** 🚀  
-**By: SuperSimple.dev**  
 **Tutorial Link:** [Git - 0 to Pro](https://www.youtube.com/watch?v=hrTQipWp6co)  
 
 ---
